@@ -1,6 +1,6 @@
-﻿//Programmer: Katie Welzbacher
+﻿//Programmer: KWelzbacher
 //Date: 5/3/17
-//Lab 10 Ch. 12
+//Ninas Cookie Source
 
 using System;
 using System.Collections.Generic;
